@@ -1,4 +1,4 @@
-a = raw_input("Enter string: ")
+a = "string"
 myfile = open('abc.txt', 'w')
 myfile.write(a)
 myfile.close()
